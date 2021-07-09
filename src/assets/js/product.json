@@ -1,0 +1,42 @@
+{
+	"items": [
+	
+	{
+		"sys": {"id": "1"},
+		"fields": {
+			"title": "Hair Brush",
+			"checkoutprice": 599,
+			"price": 599,
+			"description":"A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+			"image": {"fields": {"file": {
+			"url":"./images/product-1.jpg" }}
+			}
+		}
+	},
+	{
+		"sys": {"id": "2"},
+		"fields": {
+			"title": "10 Inch Extension",
+			"checkoutprice": 999,
+			"price": 999,
+			"description":"A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+			"image": {"fields": {"file": {
+			"url":"./images/product-2.jpg" }}
+			}
+		}
+	},
+	{
+		"sys": {"id": "3"},
+		"fields": {
+			"title": "12 Inch Extension",
+			"checkoutprice": 1599,
+			"price": 1599,
+			"description":"A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+			"image": {"fields": {"file": {
+			"url":"./images/product-3.jpg" }}
+			}
+		}
+	}
+	
+	]
+}
