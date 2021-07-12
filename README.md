@@ -16,6 +16,12 @@ Libraries & Frameworks: JQuery, Angular
 
 Runtime and Backend: NodeJS
 
+# Licence
+All files, folders and subfolders in this repository excluding the images, popular libaries and frameworks are original work built, 
+developed and designed, by the author, and developerKamo28-cd
+CopyRight you are allowed to view and read only.
+Commercial use not permitted reposession not permitted
+Should you require to use this work for commercial purposes please contact the owner of this repository
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
